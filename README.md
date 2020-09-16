@@ -7,3 +7,4 @@
  - git graph merge 2
  - git graph merge 3
  - git graph merge 4
+ - git graph merge 5
